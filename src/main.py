@@ -1,11 +1,9 @@
 
-import day4
-import day5
+import day6
 
 
 def main():
-    print(day5.solve_q1())
-    print(day5.solve_q2())
+    print(day6.solve_q1())
 
 
 if __name__ == "__main__":
